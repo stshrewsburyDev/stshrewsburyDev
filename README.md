@@ -15,4 +15,4 @@ I am a college student taking a level 3 IT practitioners BTEC cource, in my spar
  - [📚 My PyPi](https://pypi.org/user/stshrewsburyDev/)
  - [▶ My random YouTube channel](https://www.youtube.com/channel/UCF0Sr35aWFmdrbnXPF7KXfw)
  
-[![stshrewsburyDev's github stats](https://github-readme-stats.vercel.app/api?username=stshrewsburyDev&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![stshrewsburyDev's github stats](https://github-readme-stats.vercel.app/api?username=stshrewsburyDev&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
