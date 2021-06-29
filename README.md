@@ -2,16 +2,14 @@
 #### Created by Steven Shrewsbury of course.
 
 Hello, welcome to my GitHub profile, here you can find some of my programming projects that I have made/work on.
-I am a college student taking a level 3 IT practitioners BTEC cource, in my spare time I like to play games (like Portal 1/2 and Minecraft) and program random and questionable things.
+I am just a regular human and programmer, in my spare time I like to play games (like Portal 1/2 and Minecraft) and program random and questionable things.
 
-##### Languages I work with:
- - Python
- - HTML/CSS
- - Some of JS but not good at it
+Main language I work with is Python but have some experiance in web-dev (Mainly just HTML and CSS, JS is a rather big weak point)
 
 ##### Links to random things:
- - [🐦 My Twitter](https://twitter.com/stshrewsburyDev)
  - [🌐 My website](https://stshrewsbury.dev/)
+ - [🤖 Yuri PyBot](https://yuripybot.xyz/)
+ - [🐦 My Twitter](https://twitter.com/stshrewsburyDev)
  - [📚 My PyPi](https://pypi.org/user/stshrewsburyDev/)
  - [▶ My random YouTube channel](https://www.youtube.com/channel/UCF0Sr35aWFmdrbnXPF7KXfw)
  
